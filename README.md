@@ -1,6 +1,6 @@
-# 🧾 Adversarial Document Attack
+# Adversarial Document Attack
 
-This project simulates adversarial attacks on NLP models used in real estate document parsing.
+This simulates adversarial attacks on NLP models used in real estate document parsing.
 
 ## Features
 - Uses spaCy NER model
